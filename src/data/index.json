@@ -1,0 +1,61 @@
+{
+  "menuItems": [
+    {
+      "title": "Home",
+      "url": "/",
+      "class": "nav-link"
+    },
+    {
+      "title": "About",
+      "url": "/about",
+      "class": "nav-link"
+    },
+    {
+      "title": "Service",
+      "url": "/service",
+      "class": "nav-link"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact",
+      "class": "nav-link"
+    },
+    {
+      "title": "Sign up",
+      "class": "nav-link-mobile"
+    }
+  ],
+  "places": [
+    {
+      "className": "first-des",
+      "heading": "Bohemian Paradise",
+      "text": "The Czech Paradise is renowned for its magnificent rock cities and extensive forests, offering not only breathtaking views but also the opportunity to explore hundreds of kilometers of hiking and cycling trails. This area is also rich in historical landmarks, such as castles and chateaus, adding to its charm and making it an ideal destination for lovers of nature and history.",
+      "img1": "/img/1.jpg",
+      "img2": "/img/2.jpg"
+    },
+    {
+      "className": "first-des-reverse",
+      "heading": "Děčín, Ustí nad Labem region",
+      "text": "The area around the town of Děčín is known for its beautiful nature and numerous tourist attractions, including the Sněžník peak, which offers some of the best views in the Bohemian Central Uplands. The Tiské walls attract lovers of rock cities with a labyrinth of rock formations and viewing spots, making this area an ideal place for hiking and photographing natural scenery.",
+      "img1": "/img/3.jpg",
+      "img2": "/img/4.jpg"
+    }
+  ],
+  "trips": [
+    {
+      "image": "/img/5.jpg",
+      "heading": "The Pravčická brána",
+      "text": "The Pravčická brána is a narrow rock formation in Bohemian Switzerland in the Czech Republic, approx. 3 km northeast of Hřensko. With a span of 26.5 metres, an inside height of 16 metres, 8 metre maximum width and 3 metre arch, it is the largest natural sandstone arch in Europe, and one of the most striking nature monuments in the Elbe Sandstone Mountains. It is protected as a national nature monument."
+    },
+    {
+      "image": "/img/8.jpg",
+      "heading": "The Bohemian Forest",
+      "text": "The Bohemian Forest, known in Czech as Šumava and in German as Böhmerwald, is a low mountain range in Central Europe. Geographically, the mountains extend from Plzeň Region and the South Bohemian Region in the Czech Republic to Austria and Bavaria in Germany, and form the highest truncated uplands of the Bohemian Massif, up to 50 km wide."
+    },
+    {
+      "image": "/img/6.jpg",
+      "heading": "The Adršpach-Teplice Rocks",
+      "text": "The Adršpach-Teplice Rocks, located in northeastern Bohemia, are famed for their unique sandstone formations, making them a paradise for rock climbing enthusiasts seeking challenging routes and stunning natural beauty. The area also offers breathtaking landscapes and numerous hiking trails, allowing visitors to fully immerse themselves in its serene and majestic environment."
+    }
+  ]
+}
